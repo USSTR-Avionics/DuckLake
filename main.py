@@ -38,9 +38,11 @@ class create_record(Resource):
 
         parsedURL = method.parseURLForData(url)
 
+        accX, accY, accZ, gyrX, gyrY, gyrZ = parsedURL[0], parsedURL[1], parsedURL[2], parsedURL[3], parsedURL[4], parsedURL[5]
+
         print(parsedURL)
 
-        query = f"INSERT INTO telemetry(timestamp,accx,accy,accz,gyrx,gyry,gyrz) VALUES('{dateStr}','{parsedURL[0]}','{parsedURL[1]}','{parsedURL[2]}','{parsedURL[3]}','{parsedURL[4]}','{parsedURL[5]}');"
+        query = f"INSERT INTO telemetry(timestamp,accx,accy,accz,gyrx,gyry,gyrz) VALUES('{dateStr}','{accX}','{accY}','{accZ}','{gyrX}','{gyrY}','{gyrZ}');"
 
         curr.execute(query)
 
