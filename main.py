@@ -47,7 +47,7 @@ class create_record(Resource):
 
         conn.close()
 
-        return {'inserted' : {'accX': accX,'accY': accY, 'accZ': accZ,'gyrX': gyrX,'gyrY': gyrY,'gyrZ':gyrZ}
+        return {'inserted' : {'accX': accX,'accY': accY, 'accZ': accZ,'gyrX': gyrX,'gyrY': gyrY,'gyrZ':gyrZ}}
 
 
 
