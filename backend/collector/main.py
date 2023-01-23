@@ -15,6 +15,11 @@ def main():
             line = packet.decode('utf').strip('\n')
             curr_datetime = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             print(curr_datetime, line)
+            # write to a sql server
+
+
+
+
 
 if __name__ == '__main__':
     try:

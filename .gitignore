@@ -3,3 +3,6 @@
 .flaskenv
 __pycache__/
 .vscode/
+*/target/*
+target/
+target/*
