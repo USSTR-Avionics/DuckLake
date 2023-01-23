@@ -12,5 +12,5 @@ void loop()
 	{
 	Serial.println(String(counter));
 	counter++;
-	delay(500);
+	delay(250);
 	}

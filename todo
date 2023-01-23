@@ -1,0 +1,3 @@
+- Read output from Arduino serial
+- Display arduino data on the website using charts and metrics
+- Receive live telemetry from the rocket

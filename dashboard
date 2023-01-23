@@ -1,0 +1,12 @@
+- 3D orientation of the rocket
+- Speedometer (velocity)
+- Metered altitude
+- Readout (barometer)
+- Sensor readout panels
+    - temperature
+- t+/- countdown
+- GPS coordinated
+    - map
+    - lattitude
+    - longitude
+- spaceXesque timeline at the bottom (state transition)
