@@ -1,17 +1,23 @@
 import datetime
 import serial
-import time
 
-baudrate = 9600
-port = '/dev/ttyACM0'
-timeout = 1
+portVar = '/dev/ttyACM0'
 
-while(True):
-    try:
-        with serial.Serial(port, baudrate, timeout=timeout) as ser:
-            line = ser.readline().strip()
+serialInst = serial.Serial()
+serialInst.baudrate = 9600
+serialInst.port = portVar
+serialInst.open()
+
+def main():
+    while True:
+        if serialInst.in_waiting:
+            packet = serialInst.readline()
+            line = packet.decode('utf').strip('\n')
             curr_datetime = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            print(curr_datetime, int.from_bytes(line, byteorder='little'))
-            time.sleep(0.250)
+            print(curr_datetime, line)
+
+if __name__ == '__main__':
+    try:
+        main()
     except Exception as e:
-        continue
+        print(e)
