@@ -1,0 +1,2 @@
+- Continuously receive from Serial port /dev/ttyACM0
+- Create a tui to visualise the incoming data

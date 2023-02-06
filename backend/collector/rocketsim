@@ -1,0 +1,682 @@
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39225,6,0.11,0.87,-10.05,0.26
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39245,6,0.19,0.77,-9.96,0.26
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39265,6,0.23,0.67,-9.83,0.25
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39286,6,0.33,0.73,-9.76,0.25
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39306,6,0.31,0.86,-9.68,0.25
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39326,6,0.30,0.96,-9.65,0.23
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39345,6,0.37,0.96,-9.71,0.23
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39365,6,0.43,0.88,-9.77,0.23
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39385,6,0.35,0.86,-9.84,0.27
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39405,6,0.14,0.76,-9.76,0.27
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39425,6,0.11,0.70,-9.72,0.27
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39445,6,0.19,0.77,-9.77,0.27
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39465,6,0.17,0.75,-9.84,0.37
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39485,6,0.20,0.82,-9.73,0.37
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39505,6,0.27,0.85,-9.75,0.37
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39525,6,0.34,0.80,-9.81,0.26
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39545,6,0.24,0.84,-9.77,0.26
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39565,6,0.14,0.87,-9.73,0.26
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39585,6,0.19,0.86,-9.71,0.38
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39605,6,0.14,0.85,-9.75,0.38
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39625,6,0.14,0.88,-9.80,0.38
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39645,6,0.14,0.87,-9.82,0.43
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39665,6,0.22,0.90,-9.84,0.43
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39685,6,0.36,0.93,-9.79,0.43
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39705,6,0.44,0.87,-9.69,0.43
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39725,6,0.42,0.89,-9.65,0.29
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39744,6,0.38,0.91,-9.74,0.29
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39764,6,0.29,0.80,-9.82,0.29
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39784,6,0.19,0.88,-9.79,0.27
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39804,6,0.23,1.00,-9.82,0.27
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39825,6,0.27,0.91,-9.90,0.27
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39844,6,0.22,0.85,-9.93,0.29
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39864,6,0.21,0.96,-9.92,0.29
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39884,6,0.40,0.87,-9.81,0.29
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39904,6,0.44,0.84,-9.75,0.30
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39924,6,0.32,0.96,-9.81,0.30
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39945,6,0.38,0.89,-9.76,0.30
+2023-02-02 18:04:19 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:19 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:19 data_string: 39964,6,0.42,0.85,-9.79,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 39984,6,0.40,0.83,-9.86,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40004,6,0.31,0.80,-9.83,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40024,6,0.27,0.80,-9.90,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40044,6,0.24,0.76,-9.93,0.34
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40064,6,0.22,0.86,-9.89,0.34
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40084,6,0.20,0.87,-9.84,0.34
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40104,6,0.17,0.69,-9.72,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40124,6,0.17,0.76,-9.72,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40144,6,0.22,0.90,-9.83,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40164,6,0.22,0.95,-9.93,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40184,6,0.26,1.09,-9.96,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40204,6,0.38,1.08,-9.69,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40224,6,0.40,0.94,-9.68,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40244,6,0.32,0.89,-9.84,0.32
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40264,6,0.28,0.80,-9.85,0.32
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40284,6,0.37,0.85,-9.69,0.32
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40304,6,0.45,0.93,-9.62,0.31
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40324,6,0.37,0.94,-9.65,0.31
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40344,6,0.17,0.82,-9.74,0.31
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40364,6,0.12,0.80,-9.81,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40384,6,0.20,1.00,-9.84,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40404,6,0.38,0.96,-9.60,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40424,6,0.52,0.88,-9.48,0.21
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40444,6,0.50,0.92,-9.58,0.21
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40464,6,0.40,0.92,-9.56,0.21
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40484,6,0.31,0.89,-9.66,0.21
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40504,6,0.41,0.84,-9.61,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40524,6,0.39,0.84,-9.62,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40544,6,0.25,0.87,-9.76,0.30
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40564,6,0.24,0.86,-9.80,0.17
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40584,6,0.25,0.81,-9.77,0.17
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40604,6,0.20,0.79,-9.79,0.17
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40624,6,0.14,0.81,-9.81,0.31
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40644,6,0.08,0.91,-9.85,0.31
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40664,6,0.17,1.03,-10.04,0.31
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40684,6,0.29,0.92,-10.06,0.25
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40704,6,0.32,0.73,-9.93,0.25
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40724,6,0.37,0.78,-9.90,0.25
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40744,6,0.43,0.74,-9.77,0.25
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40764,6,0.31,0.73,-9.76,0.27
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40784,6,0.18,0.86,-9.85,0.27
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40804,6,0.39,0.95,-9.83,0.27
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40824,6,0.56,1.07,-9.92,0.38
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40844,6,0.50,1.04,-9.96,0.38
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40864,6,0.39,0.92,-9.90,0.38
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40884,6,0.29,0.85,-9.80,0.32
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40904,6,0.18,0.76,-9.78,0.32
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40923,6,0.22,0.73,-9.85,0.32
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40943,6,0.30,0.90,-9.96,0.37
+2023-02-02 18:04:20 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:20 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:20 data_string: 40963,6,0.21,0.84,-9.94,0.39
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 40983,6,0.24,0.78,-9.85,0.39
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41003,6,0.19,0.67,-9.85,0.39
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41023,6,0.25,0.66,-9.85,0.37
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41043,6,0.40,0.76,-9.77,0.37
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41063,6,0.35,0.79,-9.79,0.37
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41083,6,0.33,0.78,-9.86,0.27
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41103,6,0.22,0.65,-9.83,0.27
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41123,6,0.20,0.59,-9.80,0.27
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41143,6,0.26,0.60,-9.76,0.21
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41163,6,0.23,0.68,-9.79,0.21
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41183,6,0.27,0.79,-9.82,0.21
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41203,6,0.35,0.75,-9.87,0.21
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41223,6,0.40,0.70,-9.88,0.25
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41243,6,0.52,0.76,-9.78,0.25
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41263,6,0.61,0.86,-9.81,0.25
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41283,6,0.46,0.87,-9.83,0.20
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41303,6,0.40,0.86,-9.72,0.20
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41323,6,0.37,0.89,-9.68,0.20
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41343,6,0.39,0.89,-9.74,0.17
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41363,6,0.39,0.88,-9.80,0.17
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41383,6,0.26,0.88,-9.82,0.17
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41403,6,0.26,0.81,-9.70,0.24
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41422,6,0.25,0.70,-9.62,0.24
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41442,6,0.29,0.80,-9.74,0.24
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41462,6,0.25,0.99,-9.85,0.24
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41482,6,0.17,0.92,-9.92,0.28
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41503,6,0.17,0.62,-9.94,0.28
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41523,6,0.26,0.66,-9.87,0.28
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41543,6,0.31,1.02,-9.92,0.21
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41563,6,0.40,1.02,-9.89,0.21
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41583,6,0.42,0.88,-9.87,0.21
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41603,6,0.23,0.90,-9.92,0.34
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41623,6,0.22,1.02,-9.90,0.34
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41642,6,0.23,1.11,-9.85,0.34
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41662,6,0.19,1.09,-9.77,0.19
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41682,6,0.28,1.01,-9.78,0.19
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41702,6,0.39,0.85,-9.77,0.19
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41722,6,0.26,0.74,-9.79,0.19
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41742,6,0.20,0.75,-9.83,0.20
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41762,6,0.19,0.82,-9.90,0.20
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41782,6,0.18,0.90,-9.91,0.20
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41802,6,0.17,0.88,-9.79,0.30
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41822,6,0.17,0.94,-9.79,0.30
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41842,6,0.17,0.98,-9.85,0.30
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41862,6,0.10,1.01,-9.94,0.30
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41882,6,0.06,0.94,-9.97,0.30
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41902,6,0.08,0.89,-10.06,0.30
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41922,6,0.17,1.00,-10.06,0.24
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41942,6,0.37,1.02,-9.83,0.24
+2023-02-02 18:04:21 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:21 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:21 data_string: 41962,6,0.39,0.98,-9.74,0.24
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 41982,6,0.18,0.91,-9.75,0.24
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42002,6,0.14,0.96,-9.69,0.20
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42022,6,0.19,0.91,-9.72,0.20
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42042,6,0.24,0.84,-9.81,0.20
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42062,6,0.28,0.91,-9.86,0.17
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42082,6,0.24,0.94,-9.88,0.17
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42102,6,0.38,0.98,-9.87,0.17
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42122,6,0.48,0.99,-9.78,0.23
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42142,6,0.30,0.87,-9.74,0.23
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42162,6,0.23,0.80,-9.76,0.23
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42182,6,0.23,0.85,-9.79,0.25
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42202,6,0.31,0.84,-9.80,0.25
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42222,6,0.38,0.83,-9.80,0.25
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42242,6,0.29,0.91,-9.90,0.25
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42261,6,0.22,0.84,-9.91,0.19
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42281,6,0.20,0.78,-9.83,0.19
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42301,6,0.23,0.76,-9.78,0.19
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42321,6,0.28,0.76,-9.84,0.14
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42341,6,0.31,0.91,-9.82,0.14
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42361,6,0.32,0.98,-9.76,0.14
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42381,6,0.44,0.99,-9.73,0.28
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42401,6,0.56,0.88,-9.92,0.28
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42421,6,0.40,0.80,-9.95,0.28
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42441,6,0.19,0.74,-9.90,0.28
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42461,6,0.20,0.83,-9.89,0.26
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42481,6,0.16,0.93,-9.86,0.26
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42501,6,0.26,1.02,-9.97,0.26
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42521,6,0.38,1.12,-10.09,0.29
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42541,6,0.34,1.09,-10.01,0.29
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42561,6,0.44,0.97,-9.82,0.29
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42581,6,0.43,0.96,-9.90,0.15
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42601,6,0.16,1.01,-10.04,0.15
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42621,6,0.11,1.02,-9.96,0.15
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42641,6,0.27,1.02,-9.87,0.29
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42661,6,0.22,0.90,-9.90,0.29
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42681,6,0.10,0.80,-9.85,0.29
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42701,6,0.13,0.79,-9.63,0.29
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42721,6,0.22,0.77,-9.60,0.18
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42741,6,0.30,0.85,-9.74,0.18
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42760,6,0.33,0.88,-9.78,0.18
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42780,6,0.37,0.92,-9.82,0.31
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42800,6,0.31,0.85,-9.81,0.31
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42820,6,0.22,0.85,-9.80,0.31
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42840,6,0.26,0.89,-9.85,0.24
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42860,6,0.26,0.84,-9.84,0.24
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42880,6,0.28,0.86,-9.73,0.24
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42900,6,0.30,0.87,-9.69,0.26
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42920,6,0.27,0.90,-9.68,0.26
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42940,6,0.26,0.90,-9.74,0.26
+2023-02-02 18:04:22 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:22 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:22 data_string: 42960,6,0.33,0.94,-9.83,0.26
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 42980,6,0.35,0.95,-9.79,0.23
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43000,6,0.39,0.89,-9.84,0.23
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43020,6,0.41,0.95,-9.88,0.23
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43040,6,0.44,0.91,-9.75,0.30
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43060,6,0.51,0.84,-9.76,0.30
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43080,6,0.38,0.87,-9.79,0.30
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43100,6,0.40,0.87,-9.79,0.32
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43119,6,0.44,0.87,-9.90,0.32
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43139,6,0.46,0.81,-9.96,0.32
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43159,6,0.49,0.58,-9.82,0.21
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43179,6,0.33,0.58,-9.89,0.21
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43199,6,0.14,0.79,-10.02,0.21
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43219,6,0.26,0.93,-9.94,0.21
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43239,6,0.34,0.92,-9.90,0.27
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43259,6,0.30,0.82,-10.02,0.27
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43279,6,0.21,0.81,-10.07,0.27
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43299,6,0.24,0.84,-9.86,0.29
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43319,6,0.21,0.84,-9.72,0.29
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43339,6,0.27,0.90,-9.78,0.29
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43359,6,0.40,0.79,-9.75,0.33
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43379,6,0.34,0.78,-9.71,0.33
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43399,6,0.30,0.91,-9.72,0.33
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43419,6,0.34,1.03,-9.73,0.36
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43439,6,0.34,1.08,-9.77,0.37
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43459,6,0.27,0.94,-9.79,0.37
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43479,6,0.24,0.91,-9.79,0.37
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43499,6,0.27,1.04,-9.81,0.37
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43519,6,0.25,1.03,-9.72,0.37
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43538,6,0.31,1.00,-9.67,0.37
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43558,6,0.21,0.92,-9.67,0.21
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43578,6,0.16,0.86,-9.62,0.21
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43598,6,0.24,0.91,-9.70,0.21
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43618,6,0.19,0.84,-9.82,0.20
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43638,6,0.19,0.91,-9.84,0.20
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43658,6,0.31,1.00,-9.83,0.20
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43679,6,0.34,0.98,-9.88,0.20
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43698,6,0.27,0.92,-9.86,0.32
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43718,6,0.26,0.97,-9.79,0.32
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
+2023-02-02 18:04:23 data_string: 43738,6,0.39,1.04,-9.73,0.32
+2023-02-02 18:04:23 [ROCKET STATE] LAND SAFE
+2023-02-02 18:04:23 millis(), rocket_state, kx134_accel_x, kx134_accel_y, kx134_accel_z, relative_altitude
